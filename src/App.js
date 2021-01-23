@@ -1,1 +1,3 @@
-import { TodoCount, TodoList, TodoInput } from './components';
+import todoApp from './components/todoApp.js';
+
+todoApp();
